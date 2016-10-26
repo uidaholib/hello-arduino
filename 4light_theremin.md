@@ -64,16 +64,16 @@ All ready to program...
 
 1. On the IDE, choose `File` > `Examples` > `StarterKit_BasicKit` > `p06_LightTheremin`
 
-2. Plug UNO into the usb, and click the upload arrow to load the sketch.
+2. Plug UNO into the usb, and click the upload arrow to load the sketch. The first few seconds the program calibrates the photoresistor, so move your finger over and back to change the amount of light falling on the sensor. The buzzing will start soon - Enjoy!
 
 3. Make the buzz less annoying! 
 - Find at the line that says `int pitch = map(sensorValue, sensorLow, sensorHigh, 50, 4000);`
-- `50, 4000` is the range of tones we are mapping our sensor value to. Swap them so that it says `4000, 0`. What does this do? 
+- `50, 4000` sets the range of tones we are mapping our sensor reading to. The lowest reading will translate to a tone of 50, the highest to 4000. Swap them so that it says `4000, 0`. What does this do? 
 
 4. Edit and experiment! Try changing a few values in the `loop()`, such as:
-- range of pitch. [change `4000, 0` to something else]
-- tone length. [change the third number in the `tone()` function]
-- loop delay. [change the final `delay()` time] 
+- range of pitch: change `4000, 0` to something else
+- tone length: change the third number in the `tone()` function
+- loop delay: change the final `delay()` time 
 
 5. Load other examples that work with this circuit:
 - `File` > `Examples` > `Digital` > `toneMelody`

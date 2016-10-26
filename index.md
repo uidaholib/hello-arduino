@@ -9,4 +9,10 @@ layout: default
 
 Hosted at [University of Idaho Library's](http://www.lib.uidaho.edu/) the [MILL](http://mill.lib.uidaho.edu/), Oct 2016
 
-[image: "Arduino Uno R3", [SparkFun](https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg)]
+![University of Idaho Library logo](images/header-brand.png)
+
+> index image: "Arduino Uno R3", [SparkFun](https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg)
+
+> all other images and content: cc-by-sa <a href="https://github.com/evanwill">evan will</a>
+
+> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)

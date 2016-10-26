@@ -7,7 +7,9 @@ title: 2-IDE
 
 Lets make an LED blink! 
 
-For this project all we need is an UNO board, a usb cable, and the IDE. This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*. 
+For this project all we need is an UNO board, a usb cable, and the IDE. This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*.
+
+> IDE = Integrated Development Environment = an application that allows you to edit/write code, compile it, and send it to Arduino devices. 
 
 # 2.1 - First Arduino program  
 
@@ -15,9 +17,7 @@ For this project all we need is an UNO board, a usb cable, and the IDE. This min
 
     ![arduino IDE](images/arduinoIDE.png)
 
-    >IDE = Integrated Development Environment = an application that allows you to edit/write code, compile it, and send it to Arduino devices.
-
-2. Click `File` > `Examples` > `01.Basics` > `Blink`. This will open a new window with the Blink program. These built in examples are a great way to learn. Don't try to write code from scratch: borrow! 
+2. Click `File` > `Examples` > `01.Basics` > `Blink`. This will open a new window with the Blink program. These built in examples are a great way to learn. You don't need to write code from scratch: borrow. That is the power of code! 
 
     > Sketches are programs written using the Arduino IDE. Each is saved in its own folder and has the extension .ino.
 

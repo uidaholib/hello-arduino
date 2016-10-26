@@ -107,7 +107,7 @@
 .footer-nav {
   float: right;
   a {
-    color: $grey-color;
+    color: $grey-color-dark;
     line-height: $base-line-height;
     &:not(:last-child) {
       margin-right: 20px;
@@ -116,7 +116,7 @@
 
 }
 .footer-col-wrapper {
-  font-size: 15px;
+  /*font-size: 15px;*/
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;

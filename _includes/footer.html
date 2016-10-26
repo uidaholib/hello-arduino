@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <h2 class="footer-heading"><a href="{{ "/" | prepend: site.github.url }}">{{ site.title | escape }}</a> - cc-by <a href="https://github.com/evanwill">evan will</a> - 2016.</h2> 
+    <div class="footer-col-wrapper" >
     <div class="footer-nav">
         {% for my_page in site.pages %}
           {% if my_page.title %}
@@ -8,5 +8,7 @@
           {% endif %}
         {% endfor %}
     </div>
+    </div>
+      <h2 class="footer-heading"><a href="{{ "/" | prepend: site.github.url }}">{{ site.title | escape }}</a> - cc-by-sa <a href="https://github.com/evanwill">evan will</a> - 2016.</h2> 
   </div>
 </footer>
