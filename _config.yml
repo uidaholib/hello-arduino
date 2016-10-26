@@ -16,8 +16,8 @@
 title: Introducing Arduino
 description: > 
   Learn about the Arduino electronics platform by making lights blink and buzzers buzz! 
-baseurl: "/arduinoIntro" # the subpath of your site, e.g. /blog
-url: "http://evanwill.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://evanwill.github.io/arduinoIntro" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
