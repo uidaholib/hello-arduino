@@ -3,7 +3,7 @@ layout: default
 title: 6-Resources
 ---
 
-# Arduino Resources
+# 6.0 - Arduino Resources
 
 ### Official Arduino site, <https://www.arduino.cc/>
 - Get Arduino [IDE](https://www.arduino.cc/en/Main/Software) or use the online [Web Editor](http://create.arduino.cc/editor).

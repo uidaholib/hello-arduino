@@ -3,7 +3,7 @@ layout: default
 title: 5-Challenge
 ---
 
-# Extra Credit!
+# 5.0 - Extra Credit!
 
 Put your vast knowledge of Arduino to use and build a new project based on what we did so far. Suggestions:
 
