@@ -7,13 +7,13 @@ title: 3-Blink
 
 Building on our `Blink` skillz, lets build a LED circuit and control it with UNO!
 
-For this project you will need a breadboard, some jumper wires, a 330 ohm resistor, and an LED. 
+For this project you will need a breadboard, some jumper wires, a 220 *or* 330 ohm resistor, and an LED. 
 
 ![led](images/led1.JPG)
 
 > Know your LED: the longer leg is the `anode` and connects to positive voltage, i.e. `+` or `5V`; the short leg is the `cathode` and connects to ground, i.e. `-` or `GND`.  
 
-> Know your resistor: resistors are marked by color bands, but they are often hard to read - check them with a multimeter.
+> Know your resistor: resistors are marked by color bands, but they are often hard to read - check them with a [multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter).
 
 # 3.1 - First circuit
 
@@ -21,7 +21,7 @@ For this project you will need a breadboard, some jumper wires, a 330 ohm resist
 
     ![led](images/led2.JPG)
 
-2. Connect the LED `cathode` (short leg) to `GND` by inserting the legs of a 330 ohm resistor into the row and the `-` Rail. 
+2. Connect the LED `cathode` (short leg) to `GND` by inserting the legs of a 220 ohm resistor into the row and the `-` Rail. 
 
     ![led](images/led3.JPG)
 
