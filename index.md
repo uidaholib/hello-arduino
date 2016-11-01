@@ -13,6 +13,8 @@ layout: default
 
 > index image: "Arduino Uno R3", [SparkFun](https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg)
 
-> all other images and content: cc-by-sa <a href="https://github.com/evanwill">evan will</a>
+> all other images and content: cc-by-sa <a href="https://github.com/evanwill">evan will</a> 2016
 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
+
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
